@@ -1,4 +1,8 @@
 _repo: Memorias-de-un-Hombre-de-Accion-4-Con-la-Pluma-Y-Con-El-Sable-Cronica-de-1820-a-1823_49470
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49470-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -13,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Pío_Baroja
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49470#Memorias-de-un-Hombre-de-Accion-4-Con-la-Pluma-Y-Con-El-Sable-Cronica-de-1820-a-1823
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
