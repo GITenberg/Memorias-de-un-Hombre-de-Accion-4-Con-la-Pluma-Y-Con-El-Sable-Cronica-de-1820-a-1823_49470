@@ -27,6 +27,8 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Memorias de un Hombre de Acción: #4 Con la Pluma Y Con El Sable
 
   Crónica de 1820 a 1823'
